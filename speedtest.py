@@ -1,9 +1,10 @@
 import time
-import wget
 import socket
 import threading
 import os
 import datetime
+
+import wget
 
 final_value = 0
 count = 0
