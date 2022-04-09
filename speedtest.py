@@ -1,3 +1,5 @@
+#! /Users/vadimmonroe/Desktop/Programming/_WORK_PROJECTS/5_speedtest/venv/bin/python3.9
+
 import time
 import socket
 import threading
